@@ -6,7 +6,7 @@ This file shows the requirement for course project Emotion Recognition and Expre
 
 ## Dependencies
 * Linux or Mac OS
-* Python 2.7, OpenCV, Tensorflow
+* Python 2.7, [OpenCV](https://opencv.org/), [Tensorflow](https://www.tensorflow.org/)
 * Choregraphe 2.5.5
 * Python SDK for NAOqi
 

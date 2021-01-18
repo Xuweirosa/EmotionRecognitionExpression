@@ -62,8 +62,8 @@ def stiffnessOn():
 
 # connect the pepper
 session = qi.Session()
-ip = "172.20.10.6"
-port = 9559
+ip = "***.**.***.*"
+port = ****
 session.connect("tcp://" + ip + ":" + str(port))
 
 # we need to register some services to control the robot
